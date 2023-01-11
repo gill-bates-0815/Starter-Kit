@@ -1,5 +1,5 @@
 # Starter-Kit
 
-some loose files for testing vd code based scipts
+some loose files for testing vs code based scipts
 
-updates can be gives as pull request if u need em
+updates can be given as pull request if you need
